@@ -16,14 +16,14 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.2.1",
-    "gatsby": "^5.14.1",
+    "@tailwindcss/postcss": "^4.3.3",
+    "gatsby": "^5.16.1",
     "gatsby-plugin-postcss": "^6.16.0",
-    "postcss": "^8.5.8",
-    "postcss-preset-env": "^11.2.0",
+    "postcss": "^8.5.29",
+    "postcss-preset-env": "^11.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwindcss": "^4.2.1"
+    "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",
